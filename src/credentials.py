@@ -1,0 +1,3 @@
+ACCOUNT = 90278154
+PASSWORD = "Inazuma@12"
+SERVER = "LiteFinance-MT5-Demo"
